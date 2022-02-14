@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Se Nah Park is a second year student majoring in Chemistry at Cal Poly San Luis Obispo. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time, I enjoy...
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[spark126@calpoly.edu](mailto:spark126@calpoly.edu)
