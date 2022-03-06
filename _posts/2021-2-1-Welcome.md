@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-Se Nah Park is interested in research  
+Se Nah Park is currently pursuing a 
